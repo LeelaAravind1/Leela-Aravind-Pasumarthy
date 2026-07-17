@@ -124,7 +124,7 @@ and Enterprise Reporting.
 •  AI 
 •  API Testing 
 •  Cloud 
-•  Data Engineering Yeah bad vitamins
+•  Data Engineering 
 ________________________________________
 Citizens Bank / Franklin American Mortgage
 Lead QA / Python Automation Engineer
